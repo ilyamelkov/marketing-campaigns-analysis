@@ -21,6 +21,6 @@ The primary objective of this project was to analyze the effectiveness of differ
   - CR1 (Conversion Rate 1)
   - CR2 (Conversion Rate 2)
   - CAC (Marketing spendings only) (Customer Acquisition Cost)
-  - Averege spending on order per marketing campaign/category
+  - Averege spending on order per marketing campaign/category (ARPU)
   - ROI (Return on Investment)
 
